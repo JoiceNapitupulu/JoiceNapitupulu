@@ -29,7 +29,6 @@
   <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoiceNapitupulu&layout=compact&langs_count=16&theme=omni&title_color=9b59b6"/>
   <br>
   <br>
-  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoiceNapitupulu&theme=vue"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
