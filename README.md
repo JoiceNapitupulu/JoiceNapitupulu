@@ -18,7 +18,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/joicenapitupulu♡-9b59b6" />
+  <img src="https://img.shields.io/badge/JoiceNapitupulu♡-9b59b6" />
 </div>
       
 <br>
