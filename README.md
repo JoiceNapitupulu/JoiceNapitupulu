@@ -7,7 +7,7 @@
   <b>`プログラマ`</b>
   <samp>
       <br>
-      Hi there! I'm <b>Joice Napitupulu</b>
+      Hi There! I'm <b>Joice Napitupulu</b>
   </samp>
 </div>
 
