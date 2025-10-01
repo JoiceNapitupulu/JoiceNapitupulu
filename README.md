@@ -30,7 +30,7 @@
   <br>
   <br>
   <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=JoiceNapitupulu&count_private=true&theme=omni&title_color=9b59b6&icon_color=9b59b6" alt="streak stats" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=JoiceNapitupulu&count_private=true&theme=dracula&title_color=9b59b6&icon_color=9b59b6" alt="streak stats" width="60%" />
 </div>
 
 <br>
